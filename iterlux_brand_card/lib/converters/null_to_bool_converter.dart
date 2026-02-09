@@ -1,0 +1,1 @@
+bool convert(dynamic value) => value != null;

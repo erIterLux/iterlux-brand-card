@@ -1,0 +1,1 @@
+bool convert(bool value) => !value;
